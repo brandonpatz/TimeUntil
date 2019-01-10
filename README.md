@@ -1,2 +1,3 @@
 # TimeUntil
-A simple web app that I make complicated to calculate the time 
+A simple web app that tells the time in an X amount
+of time in the future.
